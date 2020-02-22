@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css';
+import styles from './App.module.css';
 
 const App = (
-    <div id = "App-container">
+    <div className = {styles.container}>
         <h3>Application goes here.</h3>
     </div>
 );
