@@ -9,6 +9,7 @@ It has the following setup:
 - Image loading
 - Eslint with Airbnb's premade config (https://www.npmjs.com/package/eslint-config-airbnb)
 - Webpack-dev-server for development
+- Also includes a basic landing page
 
 ## Available Scripts
 
